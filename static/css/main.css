@@ -1,0 +1,54 @@
+body {
+	background-color: salmon;
+	text-align: center;
+}
+
+p {
+	color: whitesmoke;
+	font-family: fantasy;
+	font-size: 1.6em;
+	margin:  10px;
+}
+
+img {
+	margin: 10px 0 10px 0;
+}
+
+input {
+	width:  450px;
+	height: 50px;
+	margin: 10px;
+	border: solid 3px indianred;
+	color: black;
+	border-radius: 5px;
+	font-family: fantasy;
+	font-size: 1.9em;
+}
+
+input:focus {
+	border:  solid 5px indianred;
+	outline: none;
+}
+
+#convert {
+	background-color: mediumslateblue;
+	border: solid 3px slateblue;
+	color: whitesmoke;
+	width: 300px;
+}
+
+#convert:hover {
+	background-color: slateblue;
+	cursor: pointer;
+}
+
+output {
+	width:  450px;
+	height: 50px;
+	margin: 10px;
+	border: solid 3px indianred;
+	color: black;
+	border-radius: 5px;
+	font-family: fantasy;
+	font-size: 1.9em;
+}
