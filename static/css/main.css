@@ -5,7 +5,7 @@ body {
 
 p {
 	color: whitesmoke;
-	font-family: fantasy;
+	font-family: Georgia, serif;
 	font-size: 1.6em;
 	margin:  10px;
 }
@@ -21,7 +21,7 @@ input {
 	border: solid 3px indianred;
 	color: black;
 	border-radius: 5px;
-	font-family: fantasy;
+	font-family: Georgia, serif;
 	font-size: 1.9em;
 }
 
